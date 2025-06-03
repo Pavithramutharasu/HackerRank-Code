@@ -22,7 +22,7 @@ class Bird extends Animal
     }
 }
 
-public class Inheritance{
+public class InheritanceI{
 
    public static void main(String args[]){
 
